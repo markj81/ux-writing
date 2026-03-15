@@ -1,4 +1,4 @@
-# UX Microcopy Audit
+# UX Writing Audit
 
 A [Claude Code](https://claude.ai/code) skill that scans user-facing text in your codebase and provides actionable recommendations to improve clarity, tone, consistency, and usability.
 

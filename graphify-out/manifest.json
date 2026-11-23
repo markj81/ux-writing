@@ -1,0 +1,32 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1795423518.637617,
+    "seen": 1795423518.9572027,
+    "ast_hash": "0a0ef578e59e2bb38c69f1dcb49a0e1a",
+    "semantic_hash": ""
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1795423518.639234,
+    "seen": 1795423518.9572108,
+    "ast_hash": "9b31786b637be3c13978bec4c2330752",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1795423518.637494,
+    "seen": 1795423518.9572148,
+    "ast_hash": "dfe5fa7939121e96d61b54077cc9ab84",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1795423473.439879,
+    "seen": 1795423518.9572167,
+    "ast_hash": "b2d187f9a25fc826b82b0a960824452f",
+    "semantic_hash": ""
+  },
+  "SKILL.md": {
+    "mtime": 1795423473.439879,
+    "seen": 1795423518.9572184,
+    "ast_hash": "fd1fa615ffacd35c50e616e69ec75e4b",
+    "semantic_hash": ""
+  }
+}
